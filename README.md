@@ -19,4 +19,4 @@ From _Thomas Hallgren_, November 2018:
 > 
 > I didn't complete this work back then because there was nothing that could replace the convenience of building everything with a single 'cabal build' command if you split up the code into several Cabal packages.
 
-On 2018-11-07 this was moved out of the gf-core repository and here, in case we ever need it again.
+On 2018-11-07 this was [moved out of the gf-core repository](https://github.com/GrammaticalFramework/gf-core/commit/422248f11fdb1aa76af72bee67d30ea8d63fa892) into here, in case we ever need it again.
