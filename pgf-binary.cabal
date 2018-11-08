@@ -12,7 +12,7 @@ description:
   The Int and Word instance use a variable-length encoding to save space
   for small numbers, originally implemented by Krasimir Angelov.
   The Double instance uses the standard IEEE754 encoding.
-homepage: http://www.grammaticalframework.org/
+homepage: https://github.com/GrammaticalFramework/pgf-binary
 maintainer: Thomas Hallgren
 stability: provisional
 category: Data, Parsing
